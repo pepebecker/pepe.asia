@@ -74,7 +74,7 @@ theme = "forty"
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Pepe Becker"
-    subtitle = "FULLSTACK SOFTWARE DEVELOPER BASED IN SEOUL 🇰🇷"
+    subtitle = "FULLSTACK SOFTWARE DEVELOPER"
     # buttonText = "Get Started"
 
 
