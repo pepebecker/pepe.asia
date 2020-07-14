@@ -82,7 +82,7 @@ theme = "forty"
   [params.tiles]
     enable = true
     # Display your showcases here.
-    
+
     [[params.tiles.showcase]]
       title = "Chat SDK"
       subtitle = "Add instant messaging to your iPhone or Android app"
@@ -99,13 +99,13 @@ theme = "forty"
       title = "Layout Trainer"
       subtitle = "Learn a keyboard layout in no time"
     #  image = ""
-      url = "http://layout-trainer.pepebecker.com"
+      url = "https://layout-trainer.pepe.asia"
 
     [[params.tiles.showcase]]
       title = "Car Game for macOS"
       subtitle = "Small game writting for fun in C++ using the SDL2 framework"
     #  image = ""
-      url = "http://pepebecker.com/car-game"
+      url = "https://pepebecker.com/car-game"
 
     [[params.tiles.showcase]]
       title = "Survival Lua"
@@ -117,13 +117,13 @@ theme = "forty"
       title = "Java Blocks"
       subtitle = "3D simulation of a Minecraft buiding"
     #  image = ""
-      url = "http://pepebecker.com/java-blocks"
+      url = "https://pepebecker.com/java-blocks"
 
     [[params.tiles.showcase]]
       title = "Wizard Amigos 3D Logo"
       subtitle = "WebGL animation of the Wizard Amigos logo"
     #  image = ""
-      url = "http://wizard.pepebecker.com"
+      url = "https://wizard.pepe.asia"
 
     [[params.tiles.showcase]]
       title = "PepeOS"
@@ -142,9 +142,9 @@ theme = "forty"
   [params.two]
     enable = false
     title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
+    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+    Mauris aliquet magna magna sed nunc rhoncus pharetra.
+    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
     Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
     Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
     buttonText = "Get Started"
