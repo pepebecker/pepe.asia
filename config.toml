@@ -190,7 +190,7 @@ theme = "forty"
   # Footer section
   [params.footer]
     enable = true
-    copyright = "2019 Pepe Becker"
+    copyright = "2020 Pepe Becker"
 
     # Uses font awesome icons
     [[params.footer.social]]
